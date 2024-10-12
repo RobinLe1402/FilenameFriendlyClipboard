@@ -24,7 +24,7 @@
       <Filter>Resource files</Filter>
     </ResourceCompile>
     <ResourceCompile Include="..\res\version.rc">
-      <Filter>Header files</Filter>
+      <Filter>Resource files</Filter>
     </ResourceCompile>
   </ItemGroup>
 </Project>
